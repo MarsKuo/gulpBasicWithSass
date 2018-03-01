@@ -15,7 +15,7 @@ npm install yarn -g
 請依序執行以下指令來執行 gulp。
 
 ```
-npm install or Yarn
+Yarn
 bower install
 gulp
 ```
