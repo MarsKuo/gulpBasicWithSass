@@ -1,0 +1,20 @@
+{
+  "name": "1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mars <talent.seek@msa.hinet.net>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
